@@ -1,0 +1,4 @@
+- (Originally the Vallakovichs)
+- Patriarch is John Edward Kynaston, Lord Mayor of the City of London
+	- He married Hilda Proctor-Beauchamp, who gave birth to a son, Lionel Fairfax before she succumbed to birth-sickness
+- He then married Princess Alexandra Lieven, who is the current matriarch of the Kynaston house

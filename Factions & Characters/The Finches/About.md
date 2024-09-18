@@ -1,0 +1,5 @@
+- A mysterious Romani gang, in their language they are called "Vistani"
+- They used to run the [[Abbreviations#^f21e4a|LCU]]
+- Known for their fortune-telling abilities and connections to the supernatural
+- They operate out of dimly lit canal boats
+- They speak in a creole language

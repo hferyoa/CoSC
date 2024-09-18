@@ -1,0 +1,3 @@
+- (The Order of the Silver Dragon in CoS)
+- A vigilante group that believe they descend from medieval knights
+- They've been toying with ancient magicks in an effort to gain power to rid London of criminal gangs

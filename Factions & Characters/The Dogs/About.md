@@ -1,0 +1,3 @@
+ - Used to be their own faction, but have now been absorbed by the Ravens
+ - Used as "the muscle" of the Ravens
+ - Werewolves of Barovia

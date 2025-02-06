@@ -1,0 +1,1 @@
+- Kolyan Indirovich, Burgomaster of Village of Barovia

@@ -1,7 +1,7 @@
 >[!tip]- Lore
 >Professor Strahd von Zarovich was a professor, a prince, and a conqueror. After the death of his father, the warlord Vlad Tepes, Strahd waged long, bloody wars against his family's enemies. He and his army cornered the last of these enemies in a remote mountain valley before slaying them all. Strahd named the valley Țepeș Vodă - or "Prince Tepes" in memory of his father.
 >
->Queen Justina lamented the death of her husband, and was fearful of her stepson Strahd. War had made him cold and arrogant. She kept her younger son, Sergei, away from the battlefield. Strahd envied the love and attention his stepmother visited upon his brother, so he remained in Romania. 
+>Queen Justina lamented the death of her husband, and was fearful of her son Strahd. War had made him cold and arrogant. She kept her younger son, Sergei, away from the battlefield. Strahd envied the love and attention his mother visited upon his brother, so he remained in Romania. 
 >
 >But age caught up with Strahd, and, fearful that he'd meet the same fate as his father due to his dulling reactions, he scoured Europe for wise priests and occultists alike, desperately searching for the secret to eternal youth. His quest led him to the shores of Britain, where he'd heard of renowned universities that would allow him to continue on his blasphemous quest.
 >
@@ -10,9 +10,9 @@
 >>[!tip]- The Contract
 >>![[Strigoi|Strigoi]]
 >
->At roughly the same time another student - a young Romanian girl - caught his eye. Tatyana; a woman of fine lineage and remarkable beauty. She soon had his full attention, and he believed he would wed her. He lavished Tatyana with gifts and attention, and when they both graduated and she announced that she would be staying in London, he also moved there, deciding to build a castle that he named after his family home: Severndroog.
+>At roughly the same time another student - a young Romanian girl - caught his eye. Tatyana; a woman of fine lineage and remarkable beauty. She soon had his full attention, and he believed he would wed her. He lavished Tatyana with gifts and attention, and when they both graduated and she announced that she would be staying in London, he also moved there, deciding to build a folly that he named after his family home: Severndroog.
 > 
->Strahd insisted that his mother and brother move to Britain as well to stay with him, as some relatives of their old enemies had begun forming alliances in Romania. They accepted. Sergei eventually took up residence at Severndroog Castle, but Justinia passed away while travelling to their new home. In sorrowful disappointment, Strahd sealed her body in a crypt beneath the castle.
+>Strahd insisted that his mother and brother move to Britain as well to stay with him, as some relatives of their old enemies had begun forming alliances in Romania. They accepted. Sergei eventually took up residence at Severndroog Folly, but Justinia passed away while travelling to their new home. In sorrowful disappointment, Strahd sealed her body in a crypt beneath the castle.
 >
 >Despite Strahd's prior efforts, Tatyana did not return his feelings; instead she fell in love with the younger, warmer Sergei. Strahd's pride prevented him from standing in the way of the young couple's love until the day of Sergei and Tatyana's wedding, when Strahd gazed into a mirror and realised he'd been a fool. He murdered Sergei and drank his blood, sealing the pact he made with Strigoi.
 >

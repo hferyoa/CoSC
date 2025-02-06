@@ -1,3 +1,3 @@
 - A more "good-aligned" gang (originally the Martikovs)
-- They run the speakeasies of London, especially the Grey and Bluewater, as well as [[Abbreviations#^61322d|Orrez]], their "vineyard"
-- They're Wereravens
+- They run the speakeasies of London, especially the Grey and Bluewater, as well as Forty Hall, their "vineyard"
+- They're Weremartes

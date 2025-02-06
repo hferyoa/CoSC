@@ -1,0 +1,2 @@
+- The Burgomaster of the Village of Barovia and family
+- Now Colin (patriarch), Mark (son), and Irene (adopted daughter)

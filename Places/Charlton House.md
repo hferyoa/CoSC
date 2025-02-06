@@ -1,0 +1,2 @@
+- Yester Hill
+- Any Marten encountered in the wilderness can lead the characters to this location.

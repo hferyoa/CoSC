@@ -1,5 +1,5 @@
 ```
-A gust of air like the foul-smelling breath of some horrible monster greets the party as they climb the steps of a tower in Severndroog Castle. Nearing the top, they begin to hear the beating of a heart in the darkness above.
+A gust of air like the foul-smelling breath of some horrible monster greets the party as they climb the steps of a tower in Severndroog Folly. Nearing the top, they begin to hear the beating of a heart in the darkness above.
 ```
 
 ```

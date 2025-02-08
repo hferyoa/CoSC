@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Mark Kempe.md",
+                "file": "Places/Romford.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mark Kempe"
+              "title": "Romford"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lesser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,10 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "303934579ad18f26",
+  "active": "8fc1c4d9372e82ed",
   "lastOpenFiles": [
-    "People/Irene Kempe.md",
+    "People/Mark Kempe.md",
     "Places/Romford.md",
+    "People/Waldorf Bassett.md",
+    "Story/1. Our Story Begins/2.  Town of Romford.md",
+    "Story/0.0. Quests/The Case of the Missing Girl.md",
+    "Factions & Characters/The Watchers/About.md",
+    "Story/0.0. Quests/Healing Irene Kempe.md",
+    "People/Irene Kempe.md",
     "Places/Lockwood Reservoir.md",
     "People/Colin Kempe.md",
     "People/Parry Wimple.md",
@@ -175,9 +180,7 @@
     "Factions & Characters/The Kynastons/About.md",
     "Factions & Characters/The Legion/About.md",
     "Factions & Characters/The Order/About.md",
-    "Story/1. Our Story Begins/2.  Town of Romford.md",
     "People/Billy Cantwell.md",
-    "Story/0.0. Quests/The Case of the Missing Girl.md",
     "Story/1. Our Story Begins/1. The Meet.md",
     "Quotes (to be added to the right places later).md",
     "Story/0.0. Quests",
@@ -189,10 +192,6 @@
     "Places/Vistana.md",
     "Places/Woods Buildings.md",
     "Places/Severndroog Folly.md",
-    "Factions & Characters/The Ravens/Strahd von Zarovich/4. Beliefs.md",
-    "Story/0. Introduction/1. Setting the Scene.md",
-    "Factions & Characters/The Kempes/About.md",
-    "Factions & Characters/The Fischers/About.md",
     "Factions & Characters/The Kempes",
     "Appendix/Images/Bloodblade.webp",
     "Appendix/Quick Reference",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Gallows Corner.md",
+                "file": "People/Mark Kempe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gallows Corner"
+              "title": "Mark Kempe"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lesser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,37 +164,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fc1c4d9372e82ed",
+  "active": "303934579ad18f26",
   "lastOpenFiles": [
+    "People/Irene Kempe.md",
     "Places/Romford.md",
-    "Places/Gallows Corner.md",
+    "Places/Lockwood Reservoir.md",
+    "People/Colin Kempe.md",
+    "People/Parry Wimple.md",
+    "Factions & Characters/The Finches/About.md",
+    "Factions & Characters/The Kynastons/About.md",
+    "Factions & Characters/The Legion/About.md",
+    "Factions & Characters/The Order/About.md",
     "Story/1. Our Story Begins/2.  Town of Romford.md",
+    "People/Billy Cantwell.md",
+    "Story/0.0. Quests/The Case of the Missing Girl.md",
+    "Story/1. Our Story Begins/1. The Meet.md",
+    "Quotes (to be added to the right places later).md",
+    "Story/0.0. Quests",
+    "Appendix/Lore/Strahd von Zarovich.md",
+    "Places/Gallows Corner.md",
     "Appendix/Tables/Readings.md",
     "People/Father Donaghan.md",
     "People/Damian Marten.md",
     "Places/Vistana.md",
     "Places/Woods Buildings.md",
-    "Story/1. Our Story Begins/1. The Meet.md",
-    "Appendix/Lore/Strahd von Zarovich.md",
     "Places/Severndroog Folly.md",
-    "Quotes (to be added to the right places later).md",
     "Factions & Characters/The Ravens/Strahd von Zarovich/4. Beliefs.md",
     "Story/0. Introduction/1. Setting the Scene.md",
-    "Factions & Characters/The Kynastons/About.md",
-    "People/Colin Kempe.md",
     "Factions & Characters/The Kempes/About.md",
     "Factions & Characters/The Fischers/About.md",
     "Factions & Characters/The Kempes",
-    "Appendix/Abbreviations.md",
-    "People/Irene Kempe.md",
-    "People/Mark Kempe.md",
-    "Items/The Bloodblade.md",
-    "Items/Saint Erkenwald's Thighbone.md",
-    "Items/Nettletree Cane.md",
     "Appendix/Images/Bloodblade.webp",
-    "Appendix/Quick Reference/Common Features.md",
     "Appendix/Quick Reference",
-    "Story/0. Introduction/2. Fortuna.md",
     "Story/1. Our Story Begins",
     "People"
   ]

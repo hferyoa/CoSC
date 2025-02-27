@@ -1,0 +1,7 @@
+- Morgantha
+- Involved in the [[Dream Pastries]] quest.
+- Morgana recognises that the characters are strangers to this land and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self-defence and offers the following information in exchange for her life:
+	- Strahd has mastery over the land and weather, and his spies include a large number of [[Factions & Characters/The Finches/About|Finches]].
+	- The Finches own the [[Vistana]] convoy of canal boats.
+	- Strahd has many enemies in London, including the fallen Templars who convene in [[Temple Church]].
+	- Strahd's most carefully guarded secret is hidden within the unholy depths of a Cathedral in London.

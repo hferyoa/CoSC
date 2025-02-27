@@ -1,1 +1,7 @@
 - Ireena Kolyana
+
+# Roleplaying Irene
+- Irene, a striking young woman with auburn hair, has been bitten twice by Strahd. The townsfolk are afraid of her and avoid her. The investigators are Irene's best hope for protection, so she is willing to accompany them under certain conditions. Although she appears mild, she has a strong will, and she aids the party as best she can in saving herself.
+- She doesn't remember her early past. She doesn't know where she's from, how she arrived in Romford or where she came from. Moreover, her encounters with Strahd are fuzzy memories, thanks to his vampyric charm, but she can recall the blazing hunger in his eyes.
+- She tells the characters that humans accompanied by wolves have been attacking the house night after night for weeks. The Mayor's heart couldn't stand the constant assault, and he died three days ago. Strangely, since his death, the house has not come under attack.
+- She says that nobody from the town has been brave enough to help Mark take Colin to the cemetery for proper burial. Irene asks the characters if they would be so kind as to help Mark deliver her father's body safely to [[Father Donaghan]], the local priest. She refuses to be taken to any physician in London or anywhere else while the Mayor lies dead on the mansion floor.

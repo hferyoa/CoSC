@@ -8,3 +8,5 @@
 - On a hit it deals damage as normal, and you can choose to regain a number of hit points equal to the damage dealt by the weapon
 	- Each time a charge is spent, fresh blood oozes from the cane's pores, and you must succeed on a ==sanity throw or be afflicted with short term madness==
 - While using the staff, blights and other evil plant creatures don't regard you as hostile unless you harm them
+
+![[nettletreecane.png]]

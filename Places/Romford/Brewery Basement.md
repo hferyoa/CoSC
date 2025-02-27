@@ -1,0 +1,5 @@
+- Blood of the Vine Tavern
+> [!cite] Narrator
+> As you round the corner of the building named Billy's Brewery, a shaft of light pierces through the fog to illuminate a cracked door hanging from its hinges on the side of the building. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Brewery Basement. Peering through the doorway, a set of cracked concrete stairs lead down to the underbelly of the building hidden in darkness.
+- A speakeasy owned by Billy, masquerading as a museum of the old brewery from before Prohibition times.
+- The tavern is likewise 70 feet long by 40 feet wide. This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddles souls within. They include the barkeep, three Ravens sitting together, and a man named [[Mark Kempe]] - who happens to be the son of the Mayor, [[Colin Kempe]].

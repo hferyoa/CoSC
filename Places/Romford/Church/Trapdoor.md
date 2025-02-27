@@ -1,0 +1,4 @@
+> [!cite] Narrator
+> Time and neglect have punched holes in the ceiling of this mouldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door. ^fdb099
+
+- If the chain is removed and the trapdoor opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft.

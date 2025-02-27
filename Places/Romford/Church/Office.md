@@ -1,0 +1,4 @@
+> [!cite] Narrator
+> An old desk and chair stand against the south wall, a wooden cross mounted above them. A ten-foot long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
+- An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of fountain pens whose reservoirs have all dried up.
+- For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: _Hymns to the Dawn_, a volume of Christian chants, and _The Blade of Truth: The uses of Logic in the War Against Diabolist Heresies, as Fought by the Knights Templar_, a strange book that mixes logic exercises with lurid descriptions of fiend-worshipping cults.

@@ -48,7 +48,7 @@
 |1|Joker|Artifact|Look for an entertaining man with a monkey. This man is more than he seems.|Look for an entertaining man with a monkey. This man is more than he seems.|This card refers to Riktavio, who can be found at Bluewater when he's not dressed as a plague doctor at his surgery.|
 |J|Diamonds|Beast|A Dog holds a secret hatred for your enemy. Use her hatred to your advantage.|This card refers to Susan Gate, wife of Emil.|
 |Q|Diamonds|Tempter|I hear the cry of a young woman. You must hurry, for her fate hangs in the balance.|This card refers to Arabelle, who gladly joins the party. But if she returns to her camp, her father Luvash refuses to let her leave.|
-|K|Diamonds|I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.|This refers to [[Father Donaghan]], the priest in the chapel of St John the Baptist in [[Romford]].|
+|K|Diamonds|I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.|This refers to [[Father Donaghan]], the priest in the chapel of St John the Baptist in [['Romford]].|
 |J|Spades|Executioner|Seek out the brother of the devil's bride. They call him the "lesser", but he has a strong soul.|This card refers to [[Mark Kempe]].|
 |Q|Spades|Mists|A finch flies alone, searching for her mentor. She does not stay in one place for long. Seek her out at the House of Australia.|This card refers to Ezmerelda d'Avenir.|
 |K|Spades|Darklord|Ah, the worst of all truths: You must face the evil of this land alone!|There is no NPC who will ally with the characters.|

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63d43aa95d8c97ae",
+        "id": "a8dbdca4b8a7cd49",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc1c4d9372e82ed",
+            "id": "5d1b2e21b8748e60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Romford.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Romford"
+              "title": "New tab"
             }
           }
         ]
@@ -163,39 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fc1c4d9372e82ed",
+  "active": "5d1b2e21b8748e60",
   "lastOpenFiles": [
-    "People/Mark Kempe.md",
-    "Places/Romford.md",
-    "People/Waldorf Bassett.md",
-    "Story/1. Our Story Begins/2.  Town of Romford.md",
-    "Story/0.0. Quests/The Case of the Missing Girl.md",
-    "Factions & Characters/The Watchers/About.md",
-    "Story/0.0. Quests/Healing Irene Kempe.md",
-    "People/Irene Kempe.md",
-    "Places/Lockwood Reservoir.md",
-    "People/Colin Kempe.md",
-    "People/Parry Wimple.md",
-    "Factions & Characters/The Finches/About.md",
-    "Factions & Characters/The Kynastons/About.md",
-    "Factions & Characters/The Legion/About.md",
-    "Factions & Characters/The Order/About.md",
-    "People/Billy Cantwell.md",
-    "Story/1. Our Story Begins/1. The Meet.md",
-    "Quotes (to be added to the right places later).md",
-    "Story/0.0. Quests",
-    "Appendix/Lore/Strahd von Zarovich.md",
-    "Places/Gallows Corner.md",
+    "Appendix/Tables/Table Notes/Ravenloft Encounters.md",
+    "Places/Greenwich/Severndroog Folly.md",
     "Appendix/Tables/Readings.md",
-    "People/Father Donaghan.md",
-    "People/Damian Marten.md",
-    "Places/Vistana.md",
+    "Appendix/Tables/Table Notes",
+    "Appendix/Quick Reference/Common Features.md",
+    "Places/Romford/Mad Mary's Townhouse.md",
+    "Items/Nettletree Cane.md",
+    "Items/Saint Erkenwald's Thighbone.md",
+    "Appendix/Images/Items/nettletreecane.png",
+    "Appendix/Images/Items/TomeOfStrahd.webp",
+    "Appendix/Images/Items",
+    "People/Rholand.md",
+    "People/Aveline d'Avenir.md",
+    "Appendix/Lore/Strahd von Zarovich.md",
+    "Factions & Characters/The Ravens/Strahd von Zarovich/1. Background.md",
+    "Places/Greenwich/Greenwich Foot Tunnel.md",
+    "Places/Finsbury Park/'Finsbury Park.md",
+    "Places/Greenwich",
     "Places/Woods Buildings.md",
-    "Places/Severndroog Folly.md",
+    "Places/Vistana.md",
+    "Places/The Grey.md",
+    "Places/The Den.md",
+    "Places/Temple Church.md",
+    "Places/St Paul's Cathedral.md",
+    "Places/Ol' Bonemill.md",
+    "Places/Lockwood Reservoir.md",
+    "Places/Finsbury Park/Highgate Cemetery.md",
+    "Places/Gallows Corner.md",
+    "Places/Forty Hall.md",
+    "Places/Charlton House.md",
+    "Places/Blackwater.md",
+    "Places/Finsbury Park",
+    "Places/Australian High Commission",
+    "Places/Romford/Church",
+    "Places/Romford",
+    "Story/0.0. Quests",
     "Factions & Characters/The Kempes",
-    "Appendix/Images/Bloodblade.webp",
-    "Appendix/Quick Reference",
-    "Story/1. Our Story Begins",
-    "People"
+    "Appendix/Images/Items/Bloodblade.webp",
+    "Appendix/Quick Reference"
   ]
 }

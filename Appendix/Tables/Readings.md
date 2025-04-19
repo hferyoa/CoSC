@@ -56,7 +56,7 @@
 |Q|Clubs|Raven|Find the Lord Marten. Though old, he has one more fight left in him.| This card refers to "Lord Forty" Damian Marten. The old weremart will insist on reconciling with his third son, Erwin Marten.|
 |K|Clubs|Donjon|Find the two locked deep within houses that contest each other. Unite them.|This card refers to Victor Kynaston and Stella Watcher. If the party reunites them (curing Stella in the process), they will aid the party.|
 |J|Hearts|Marionette|What horror is this?! I see a man made by man. Ageless and alone, it haunts the castles chambers.|This card refers to Pidlwick II.|
-|Q|Hearts|Innocent|I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the shops to the East.|This card refers to [[Harry Manning]].|
+|Q|Hearts|Innocent|I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the shops to the East.|This card refers to [[Parry Wimple]].|
 |K|Hearts|Ghost|I see a fallen knights of a fallen templar order. He lingers like a ghost in a dead Saint's resting place.|This card refers to Sir Godfrey Gwilym.|
 |2|Joker|Horseman|I see a man of noble birth straddling this world and the next. Breathe life in to his corpse, and he will be your staunch ally.|This card refers to Nicholas Watcher.|
 
